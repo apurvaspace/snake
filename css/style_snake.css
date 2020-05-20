@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 255, 255, 0.664), rgba(0, 0, 0, 0.705), rgba(0, 255, 255, 0.705)), url(../img/apple.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: goldenrod;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    top: 10%;
+}
